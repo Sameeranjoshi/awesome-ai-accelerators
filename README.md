@@ -5,7 +5,6 @@ A list of the awesome compilers, Programming, and Performance-related papers and
 ## Contents
 - [AI accelerator Companies](#ai-accelerator-companies)
 - [Papers](#papers)
-  - [Survey](#survey)
 - [Tutorials](#tutorials)
 - [Contribute](#contribute)
 
@@ -17,10 +16,8 @@ A list of the awesome compilers, Programming, and Performance-related papers and
 
 ## Papers
 
-### Survey
 - [Evaluating Emerging AI/ML Accelerators: IPU, RDU, and NVIDIA/AMD GPUs](https://arxiv.org/abs/2002.03794) by Hongwu Peng et al., arXiv 2024
-- [Revet: A Language and Compiler for Dataflow
-Threads]([https://ieeexplore.ieee.org/document/8782480](https://arxiv.org/pdf/2302.06124)) by Alexander C. Rucker et al., arXiv 2024
+- [Revet: A Language and Compiler for Dataflow Threads](https://arxiv.org/pdf/2302.06124) by Alexander C. Rucker et al., arXiv 2024
 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
