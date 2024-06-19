@@ -35,4 +35,4 @@ We encourage all contributions to this repository. Open an [issue](https://githu
 - [Bridging Control-Centric and Data-Centric Optimization](https://spcl.inf.ethz.ch/Publications/.pdf/dcir-cgo23.pdf)
 - [A Data-Centric Optimization Framework for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3524059.3532364)
 - [Lifting C Semantics for Dataflow Optimization](https://spcl.inf.ethz.ch/Publications/.pdf/calotoiu-c2dace.pdf)
-- [Scheduling Task Graphs on Dataflow Architectures](https://youtu.be/cAuihrBDt-Y?si=k_dEJfS5jWoj1E1B)
+- [Streaming Task Graph Scheduling for Dataflow Architectures](https://youtu.be/cAuihrBDt-Y?si=k_dEJfS5jWoj1E1B)
