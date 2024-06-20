@@ -19,6 +19,7 @@ A list of the awesome compilers, Programming, and Performance-related papers and
 - [Evaluating Emerging AI/ML Accelerators: IPU, RDU, and NVIDIA/AMD GPUs](https://arxiv.org/abs/2002.03794) by Hongwu Peng et al., arXiv 2024
 - [Revet: A Language and Compiler for Dataflow Threads](https://arxiv.org/pdf/2302.06124) by Alexander C. Rucker et al., arXiv 2024
 - [Near-Optimal Wafer-Scale Reduce](https://spcl.inf.ethz.ch/Publications/.pdf/luczynski-gianinazzi-hpdc-2024) by Piotr Luczynski et.al HPDC 2024
+- [Generating SIMD Instructions for Cerebras CS-1 using Polyhedral Compilation Techniques](https://cerebras.net/wp-content/uploads/2021/04/IMPACT_2020_paper_3.pdf) by Sven Verdoolaege et.al IMPACT 2020
 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
