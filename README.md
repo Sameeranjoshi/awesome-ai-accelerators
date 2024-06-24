@@ -21,6 +21,11 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Near-Optimal Wafer-Scale Reduce](https://spcl.inf.ethz.ch/Publications/.pdf/luczynski-gianinazzi-hpdc-2024) by Piotr Luczynski et.al HPDC 2024
 - [Generating SIMD Instructions for Cerebras CS-1 using Polyhedral Compilation Techniques](https://cerebras.net/wp-content/uploads/2021/04/IMPACT_2020_paper_3.pdf) by Sven Verdoolaege et.al IMPACT 2020
 
+### Survey papers
+- [Survey of Machine Learning Accelerators](https://ieeexplore.ieee.org/document/9286149) by Albert Reuther et.al, HPEC 2020
+- [A taxonomy for classification and comparison of dataflows for gnn accelerators](https://www.osti.gov/biblio/1817326) by Raveesh Garg et.al, OSTI 2021
+
+
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
 
