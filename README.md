@@ -30,6 +30,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Efficient algorithms for Monte Carlo particle transport on AI accelerator hardware](https://arxiv.org/abs/2311.01739) by John Tramm et.al, arXiv 2023
 - [Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System](https://arxiv.org/abs/2405.07898) by Kylee Santos et.al, arXiv 2024
 - [TensorFlow as a DSL for stencil-based computation on the Cerebras Wafer Scale Engine](https://arxiv.org/abs/2210.04795) by Nick Brown et.al, arXiv 2022
+- [A list of porting papers related to Cerebras](https://www.cerebras.net/blog/supercharge-your-hpc-research-with-the-cerebras-sdk) check subsection 'Selected Cerebras SDK Publications'.
 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
