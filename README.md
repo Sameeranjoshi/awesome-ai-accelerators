@@ -21,11 +21,11 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Near-Optimal Wafer-Scale Reduce](https://spcl.inf.ethz.ch/Publications/.pdf/luczynski-gianinazzi-hpdc-2024) by Piotr Luczynski et.al HPDC 2024
 - [Generating SIMD Instructions for Cerebras CS-1 using Polyhedral Compilation Techniques](https://cerebras.net/wp-content/uploads/2021/04/IMPACT_2020_paper_3.pdf) by Sven Verdoolaege et.al IMPACT 2020
 
-### Survey papers
+## Survey papers
 - [Survey of Machine Learning Accelerators](https://ieeexplore.ieee.org/document/9286149) by Albert Reuther et.al, HPEC 2020
 - [A taxonomy for classification and comparison of dataflows for gnn accelerators](https://www.osti.gov/biblio/1817326) by Raveesh Garg et.al, OSTI 2021
 
-### Porting papers
+## Porting papers
 - [Hardware Specialization: Estimating Monte Carlo Cross-Section Lookup Kernel Performance and Area](https://dl.acm.org/doi/10.1145/3624062.3625534) by Yoshii et.al, SC 23
 - [Efficient algorithms for Monte Carlo particle transport on AI accelerator hardware](https://arxiv.org/abs/2311.01739) by John Tramm et.al, arXiv 2023
 - [Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System](https://arxiv.org/abs/2405.07898) by Kylee Santos et.al, arXiv 2024
@@ -34,7 +34,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
 
-# Dataflow Graph Generation
+## Dataflow Graph Generation
 - [DACE: Data-Centric Parallel Programming; Johannes de Fine Licht (ETH Zurich)](https://www.youtube.com/watch?v=t0T34AWDpgo)
 - [StencilFlow](https://youtu.be/HZ6n0vctp2o?si=gz8AF8mi9RjtTUHI)
 - [Portable, high-performance Python on CPUs, GPUs, FPGAs (XACC Winter school 2022)](https://www.youtube.com/watch?v=FGYGxI5BKcM)
