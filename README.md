@@ -34,10 +34,6 @@ A list of the awesome compilers, programming, performance, and porting-related p
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
 
-## Contribute
-We encourage all contributions to this repository. Open an [issue](https://github.com/Sameeranjoshi/awesome-ai-accelerators/issues) or send a [pull request](https://github.com/Sameeranjoshi/awesome-ai-accelerators/pulls).
-
-
 # Dataflow Graph Generation
 - [DACE: Data-Centric Parallel Programming; Johannes de Fine Licht (ETH Zurich)](https://www.youtube.com/watch?v=t0T34AWDpgo)
 - [StencilFlow](https://youtu.be/HZ6n0vctp2o?si=gz8AF8mi9RjtTUHI)
@@ -47,3 +43,6 @@ We encourage all contributions to this repository. Open an [issue](https://githu
 - [A Data-Centric Optimization Framework for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3524059.3532364)
 - [Lifting C Semantics for Dataflow Optimization](https://spcl.inf.ethz.ch/Publications/.pdf/calotoiu-c2dace.pdf)
 - [Streaming Task Graph Scheduling for Dataflow Architectures](https://youtu.be/cAuihrBDt-Y?si=k_dEJfS5jWoj1E1B)
+
+## Contribute
+We encourage all contributions to this repository. Open an [issue](https://github.com/Sameeranjoshi/awesome-ai-accelerators/issues) or send a [pull request](https://github.com/Sameeranjoshi/awesome-ai-accelerators/pulls).
