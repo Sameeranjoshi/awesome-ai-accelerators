@@ -1,5 +1,5 @@
 # awesome-ai-accelerators
-A list of the awesome compilers, Programming, and Performance-related papers and tutorials for AI accelerators like Sambanova, Cerebras, Graphcore, Groq, etc.
+A list of the awesome compilers, programming, performance, and porting-related papers and tutorials for AI accelerators like Sambanova, Cerebras, Graphcore, Groq, etc.
 
 
 ## Contents
