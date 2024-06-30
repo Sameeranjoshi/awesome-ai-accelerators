@@ -24,6 +24,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 ## SC24 papers related to AI Accelerators
  - [Automated Code Generation of High-Order Stencils for a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap440&sess=sess403)
  - [Fast Molecular Dynamics on Wafer-Scale System](https://sc24.conference-program.com/presentation/?id=pap657&sess=sess384)
+ - [Matrix-Free Finite-Volume Kernels on a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap439&sess=sess382)
 
 ## Survey papers
 - [Survey of Machine Learning Accelerators](https://ieeexplore.ieee.org/document/9286149) by Albert Reuther et.al, HPEC 2020
