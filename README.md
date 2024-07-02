@@ -20,6 +20,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Revet: A Language and Compiler for Dataflow Threads](https://arxiv.org/pdf/2302.06124) by Alexander C. Rucker et al., arXiv 2024
 - [Near-Optimal Wafer-Scale Reduce](https://spcl.inf.ethz.ch/Publications/.pdf/luczynski-gianinazzi-hpdc-2024) by Piotr Luczynski et.al HPDC 2024
 - [Generating SIMD Instructions for Cerebras CS-1 using Polyhedral Compilation Techniques](https://cerebras.net/wp-content/uploads/2021/04/IMPACT_2020_paper_3.pdf) by Sven Verdoolaege et.al IMPACT 2020
+- [Benchmarking and In-depth Performance Study of Large Language Models on Habana Gaudi Processors](https://dl.acm.org/doi/10.1145/3624062.3624257) by Zhang et. al SC23(INTEL GAUDI)
 
 ## SC24 papers related to AI Accelerators
  - [Automated Code Generation of High-Order Stencils for a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap440&sess=sess403)
