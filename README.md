@@ -40,6 +40,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
+- [GraphCore EuroLLVM 22](https://www.youtube.com/watch?v=nr2ibjPg7bc&list=PL_R5A0lGi1AC5aYjEmBIAMMyibsENvvdU&index=13)
 
 ## Dataflow Graph Generation
 - [DACE: Data-Centric Parallel Programming; Johannes de Fine Licht (ETH Zurich)](https://www.youtube.com/watch?v=t0T34AWDpgo)
