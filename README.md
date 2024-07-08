@@ -29,13 +29,13 @@ A list of the awesome compilers, programming, performance, and porting-related p
 
 ## Survey papers
 - [Survey of Machine Learning Accelerators](https://ieeexplore.ieee.org/document/9286149) by Albert Reuther et.al, HPEC 2020
-- [A taxonomy for classification and comparison of dataflows for gnn accelerators](https://www.osti.gov/biblio/1817326) by Raveesh Garg et.al, OSTI 2021
+- [A taxonomy for classification and comparison of dataflows for gnn accelerators](https://www.osti.gov/biblio/1817326) by Raveesh Garg et al., OSTI 2021
 
 ## Porting papers
-- [Hardware Specialization: Estimating Monte Carlo Cross-Section Lookup Kernel Performance and Area](https://dl.acm.org/doi/10.1145/3624062.3625534) by Yoshii et.al, SC 23
-- [Efficient algorithms for Monte Carlo particle transport on AI accelerator hardware](https://arxiv.org/abs/2311.01739) by John Tramm et.al, arXiv 2023
-- [Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System](https://arxiv.org/abs/2405.07898) by Kylee Santos et.al, arXiv 2024
-- [TensorFlow as a DSL for stencil-based computation on the Cerebras Wafer Scale Engine](https://arxiv.org/abs/2210.04795) by Nick Brown et.al, arXiv 2022
+- [Hardware Specialization: Estimating Monte Carlo Cross-Section Lookup Kernel Performance and Area](https://dl.acm.org/doi/10.1145/3624062.3625534) by Yoshii et al., SC 23
+- [Efficient algorithms for Monte Carlo particle transport on AI accelerator hardware](https://arxiv.org/abs/2311.01739) by John Tramm et al., arXiv 2023
+- [Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System](https://arxiv.org/abs/2405.07898) by Kylee Santos et al., arXiv 2024
+- [TensorFlow as a DSL for stencil-based computation on the Cerebras Wafer Scale Engine](https://arxiv.org/abs/2210.04795) by Nick Brown et al., arXiv 2022
 - [A list of porting papers related to Cerebras](https://www.cerebras.net/blog/supercharge-your-hpc-research-with-the-cerebras-sdk) check subsection 'Selected Cerebras SDK Publications'.
 
 ## Tutorials
@@ -51,6 +51,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [A Data-Centric Optimization Framework for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3524059.3532364)
 - [Lifting C Semantics for Dataflow Optimization](https://spcl.inf.ethz.ch/Publications/.pdf/calotoiu-c2dace.pdf)
 - [Streaming Task Graph Scheduling for Dataflow Architectures](https://youtu.be/cAuihrBDt-Y?si=k_dEJfS5jWoj1E1B)
+- [The spatial computer: A model for energy-efficient parallel computation](https://arxiv.org/pdf/2205.04934) by Lukas et al., arXiv 2023
 
 ## Contribute
 We encourage all contributions to this repository. Open an [issue](https://github.com/Sameeranjoshi/awesome-ai-accelerators/issues) or send a [pull request](https://github.com/Sameeranjoshi/awesome-ai-accelerators/pulls).
