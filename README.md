@@ -53,5 +53,8 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Streaming Task Graph Scheduling for Dataflow Architectures](https://youtu.be/cAuihrBDt-Y?si=k_dEJfS5jWoj1E1B)
 - [The spatial computer: A model for energy-efficient parallel computation](https://arxiv.org/pdf/2205.04934) by Lukas et al., arXiv 2023
 
+## Dataflow learning
+- [Dataflow for exascale, 2012 video](https://www.youtube.com/watch?v=rJ2MrtZPWFc)
+- 
 ## Contribute
 We encourage all contributions to this repository. Open an [issue](https://github.com/Sameeranjoshi/awesome-ai-accelerators/issues) or send a [pull request](https://github.com/Sameeranjoshi/awesome-ai-accelerators/pulls).
