@@ -55,6 +55,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 
 ## Dataflow learning
 - [Dataflow for exascale, 2012 video](https://www.youtube.com/watch?v=rJ2MrtZPWFc)
+- [Stanford Seminar - Multiscale Dataflow Computing: Competitive Advantage at the Exascale Frontier, Maxeler(A Groq acquired company now)](Stanford Seminar - Multiscale Dataflow Computing: Competitive Advantage at the Exascale Frontier) DataFlow hardware since 2000!
 - 
 ## Contribute
 We encourage all contributions to this repository. Open an [issue](https://github.com/Sameeranjoshi/awesome-ai-accelerators/issues) or send a [pull request](https://github.com/Sameeranjoshi/awesome-ai-accelerators/pulls).
