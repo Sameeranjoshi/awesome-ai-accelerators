@@ -56,6 +56,20 @@ A list of the awesome compilers, programming, performance, and porting-related p
 ## Dataflow learning
 - [Dataflow for exascale, 2012 video](https://www.youtube.com/watch?v=rJ2MrtZPWFc)
 - [Stanford Seminar - Multiscale Dataflow Computing: Competitive Advantage at the Exascale Frontier, Maxeler(A Groq acquired company now)](https://www.youtube.com/watch?v=Nwdu7QlFUnA) DataFlow hardware since 2000!
-- 
+
+
+# Spatial Computing general literature
+## Lectures and Talks
+
+1. [**Prof. Onur Mutlu Lecture on Spatial Computing**](https://www.youtube.com/watch?v=8zbh4gWGa7I)
+2. [**Industry Talk on Dataflow Architectures**](https://www.youtube.com/watch?v=Nwdu7QlFUnA)
+
+## Podcasts
+
+1. [**Spatial Computing Podcast**](https://www.youtube.com/watch?v=lTlpJ2Mz4zs)
+
+## Conference Talks
+1. [**ATPESC23 - Talk on Dataflow Architectures by Monsalve Diaz and Raskar**](https://extremecomputingtraining.anl.gov/wp-content/uploads/sites/96/2023/08/ATPESC-2023-Track-1-Talk-6-Monsalve-Diaz-Raskar-Dataflow-Architectures.pdf)
+
 ## Contribute
 We encourage all contributions to this repository. Open an [issue](https://github.com/Sameeranjoshi/awesome-ai-accelerators/issues) or send a [pull request](https://github.com/Sameeranjoshi/awesome-ai-accelerators/pulls).
