@@ -45,7 +45,11 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Disruptive Changes in Field Equation Modeling A Simple Interface for Wafer Scale Engines](https://arxiv.org/pdf/2209.13768) by Mino Woo et al., 2022
 - [TensorFlow as a DSL for stencil-based computation on the Cerebras Wafer Scale Engine](https://arxiv.org/abs/2210.04795) by Nick Brown et al., 2022
 - [Fast Stencil-Code Computation on a Wafer-Scale Processor] (https://arxiv.org/abs/2010.03660) by Kamil et al., 2020
-- 
+- [Massively scalable stencil algorithm](https://arxiv.org/pdf/2204.03775) by Mathias et al., arXiv 2022
+- [2D Collective Communication for the Cerebras Wafer-Scale Engine](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/698365/1/bt_Louis_Schnyder.pdf) by Louis Schnyder Bachelor's Thesis ETHZ, 2024
+- [CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/698365/1/bt_Louis_Schnyder.pdf) by Shihui Song et al., HPDC 2024
+- [Slide FFT on a homogeneous mesh in wafer-scale computing](https://arxiv.org/pdf/2401.05427) by Maurice H.P.M. van Putten et al., arXiv 2024
+
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
 - [GraphCore EuroLLVM 22](https://www.youtube.com/watch?v=nr2ibjPg7bc&list=PL_R5A0lGi1AC5aYjEmBIAMMyibsENvvdU&index=13)
