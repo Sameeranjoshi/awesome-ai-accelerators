@@ -18,7 +18,6 @@ A list of the awesome compilers, programming, performance, and porting-related p
 
 - [Evaluating Emerging AI/ML Accelerators: IPU, RDU, and NVIDIA/AMD GPUs](https://arxiv.org/abs/2002.03794) by Hongwu Peng et al., arXiv 2024
 - [Revet: A Language and Compiler for Dataflow Threads](https://arxiv.org/pdf/2302.06124) by Alexander C. Rucker et al., arXiv 2024
-- [Near-Optimal Wafer-Scale Reduce](https://spcl.inf.ethz.ch/Publications/.pdf/luczynski-gianinazzi-hpdc-2024) by Piotr Luczynski et.al HPDC 2024
 - [Generating SIMD Instructions for Cerebras CS-1 using Polyhedral Compilation Techniques](https://cerebras.net/wp-content/uploads/2021/04/IMPACT_2020_paper_3.pdf) by Sven Verdoolaege et.al IMPACT 2020
 - [Benchmarking and In-depth Performance Study of Large Language Models on Habana Gaudi Processors](https://dl.acm.org/doi/10.1145/3624062.3624257) by Zhang et. al SC23(INTEL GAUDI)
 
@@ -32,23 +31,31 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [A taxonomy for classification and comparison of dataflows for gnn accelerators](https://www.osti.gov/biblio/1817326) by Raveesh Garg et al., OSTI 2021
 
 ## Porting papers
-- [Hardware Specialization: Estimating Monte Carlo Cross-Section Lookup Kernel Performance and Area](https://dl.acm.org/doi/10.1145/3624062.3625534) by Yoshii et al., SC 23
-- [Efficient algorithms for Monte Carlo particle transport on AI accelerator hardware](https://arxiv.org/abs/2311.01739) by John Tramm et al., arXiv 2023
-- [Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System](https://arxiv.org/abs/2405.07898) by Kylee Santos et al., arXiv 2024
-- [TensorFlow as a DSL for stencil-based computation on the Cerebras Wafer Scale Engine](https://arxiv.org/abs/2210.04795) by Nick Brown et al., arXiv 2022
-- [A list of porting papers related to Cerebras](https://www.cerebras.net/blog/supercharge-your-hpc-research-with-the-cerebras-sdk) check subsection 'Selected Cerebras SDK Publications'.
-- [Automated Code Generation of High-Order Stencils for a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap440&sess=sess403)
-- [Fast Molecular Dynamics on Wafer-Scale System](https://sc24.conference-program.com/presentation/?id=pap657&sess=sess384)
-- [Matrix-Free Finite-Volume Kernels on a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap439&sess=sess382)
-- [Scaling the “Memory Wall” for Multi-Dimensional Seismic Processing with Algebraic Compression on Cerebras CS-2 Systems](https://dl.acm.org/doi/10.1145/3581784.3627042) by Hatem et al., SC23
+
+### 2020
+- [Fast Stencil-Code Computation on a Wafer-Scale Processor](https://arxiv.org/abs/2010.03660) by Kamil et al., 2020
+
+### 2022
+- [TensorFlow as a DSL for stencil-based computation on the Cerebras Wafer Scale Engine](https://arxiv.org/abs/2210.04795) by Nick Brown et al., 2022
 - [Wafer-Scale Fast Fourier Transforms](https://arxiv.org/pdf/2209.15040) by Marcelo Orenes-Vera et al., arXiv 2022
 - [Disruptive Changes in Field Equation Modeling A Simple Interface for Wafer Scale Engines](https://arxiv.org/pdf/2209.13768) by Mino Woo et al., 2022
-- [TensorFlow as a DSL for stencil-based computation on the Cerebras Wafer Scale Engine](https://arxiv.org/abs/2210.04795) by Nick Brown et al., 2022
-- [Fast Stencil-Code Computation on a Wafer-Scale Processor] (https://arxiv.org/abs/2010.03660) by Kamil et al., 2020
 - [Massively scalable stencil algorithm](https://arxiv.org/pdf/2204.03775) by Mathias et al., arXiv 2022
+
+### 2023
+- [Hardware Specialization: Estimating Monte Carlo Cross-Section Lookup Kernel Performance and Area](https://dl.acm.org/doi/10.1145/3624062.3625534) by Yoshii et al., SC 23
+- [Efficient algorithms for Monte Carlo particle transport on AI accelerator hardware](https://arxiv.org/abs/2311.01739) by John Tramm et al., arXiv 2023
+- [Scaling the “Memory Wall” for Multi-Dimensional Seismic Processing with Algebraic Compression on Cerebras CS-2 Systems](https://dl.acm.org/doi/10.1145/3581784.3627042) by Hatem et al., SC23
+
+### 2024
+- [Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System](https://arxiv.org/abs/2405.07898) by Kylee Santos et al., arXiv 2024
 - [2D Collective Communication for the Cerebras Wafer-Scale Engine](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/698365/1/bt_Louis_Schnyder.pdf) by Louis Schnyder Bachelor's Thesis ETHZ, 2024
 - [CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/698365/1/bt_Louis_Schnyder.pdf) by Shihui Song et al., HPDC 2024
 - [Slide FFT on a homogeneous mesh in wafer-scale computing](https://arxiv.org/pdf/2401.05427) by Maurice H.P.M. van Putten et al., arXiv 2024
+- [Near-Optimal Wafer-Scale Reduce](https://spcl.inf.ethz.ch/Publications/.pdf/luczynski-gianinazzi-hpdc-2024) by Piotr Luczynski et al., HPDC 2024
+- [Automated Code Generation of High-Order Stencils for a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap440&sess=sess403)
+- [Fast Molecular Dynamics on Wafer-Scale System](https://sc24.conference-program.com/presentation/?id=pap657&sess=sess384)
+- [Matrix-Free Finite-Volume Kernels on a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap439&sess=sess382)
+
 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
