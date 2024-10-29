@@ -37,7 +37,15 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System](https://arxiv.org/abs/2405.07898) by Kylee Santos et al., arXiv 2024
 - [TensorFlow as a DSL for stencil-based computation on the Cerebras Wafer Scale Engine](https://arxiv.org/abs/2210.04795) by Nick Brown et al., arXiv 2022
 - [A list of porting papers related to Cerebras](https://www.cerebras.net/blog/supercharge-your-hpc-research-with-the-cerebras-sdk) check subsection 'Selected Cerebras SDK Publications'.
-
+- [Automated Code Generation of High-Order Stencils for a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap440&sess=sess403)
+- [Fast Molecular Dynamics on Wafer-Scale System](https://sc24.conference-program.com/presentation/?id=pap657&sess=sess384)
+- [Matrix-Free Finite-Volume Kernels on a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap439&sess=sess382)
+- [Scaling the “Memory Wall” for Multi-Dimensional Seismic Processing with Algebraic Compression on Cerebras CS-2 Systems](https://dl.acm.org/doi/10.1145/3581784.3627042) by Hatem et al., SC23
+- [Wafer-Scale Fast Fourier Transforms](https://arxiv.org/pdf/2209.15040) by Marcelo Orenes-Vera et al., arXiv 2022
+- [Disruptive Changes in Field Equation Modeling A Simple Interface for Wafer Scale Engines](https://arxiv.org/pdf/2209.13768) by Mino Woo et al., 2022
+- [TensorFlow as a DSL for stencil-based computation on the Cerebras Wafer Scale Engine](https://arxiv.org/abs/2210.04795) by Nick Brown et al., 2022
+- [Fast Stencil-Code Computation on a Wafer-Scale Processor] (https://arxiv.org/abs/2010.03660) by Kamil et al., 2020
+- 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
 - [GraphCore EuroLLVM 22](https://www.youtube.com/watch?v=nr2ibjPg7bc&list=PL_R5A0lGi1AC5aYjEmBIAMMyibsENvvdU&index=13)
