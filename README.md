@@ -16,9 +16,11 @@ A list of the awesome compilers, programming, performance, and porting-related p
 
 # To-Do Reading List
 
+### New Representation
 - [ ] [RVSDG: An Intermediate Representation for Optimizing Compilers](https://arxiv.org/pdf/1912.05036)
   - [ ] [Program feature impact on the treewidth of the RVSDG IR](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2827695)
   - [ ] [Implementing RVSDG as a dialect of MLIR](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3088035/no.ntnu:inspera:142737689:35303838.pdf?sequence=1)
+### AMD AI Engine
 - [ ] [An End-to-End Programming Model for AI Engine Architectures](https://dl.acm.org/doi/pdf/10.1145/3665283.3665294?casa_token=n7zkyyiiWxAAAAAA:E1oXHB4BPgg_tBP9ASSqUwVkzMs7y5j8XalEEsJfT2Ir8CiTMlaLePJm-v4h5SknK8Y0DqnuDr1A)
   - [ ] [Exploring the Versal AI Engines for Accelerating Stencil-based Atmospheric Advection Simulation] (https://dl.acm.org/doi/10.1145/3543622.3573047)
   - [ ] [AN END-TO-END PROGRAMMING MODEL FOR AI ENGINE ARCHITECTURES, THESIS](file:///Users/u1418973/Downloads/Levental_uchicago_0330D_17419.pdf)
