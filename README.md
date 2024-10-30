@@ -14,6 +14,15 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Groq](https://groq.com/)
 - [Graphcore](https://www.graphcore.ai/)
 
+# To-Do Reading List
+
+- [x] Task 1
+- [x] Task 2
+- [ ] Task 3
+- [ ] Task 4
+- [ ] Task 5
+
+
 ## Papers
 
 - [Evaluating Emerging AI/ML Accelerators: IPU, RDU, and NVIDIA/AMD GPUs](https://arxiv.org/abs/2002.03794) by Hongwu Peng et al., arXiv 2024
