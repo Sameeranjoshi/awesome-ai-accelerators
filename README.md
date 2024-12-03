@@ -67,7 +67,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Automated Code Generation of High-Order Stencils for a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap440&sess=sess403)
 - [Fast Molecular Dynamics on Wafer-Scale System](https://sc24.conference-program.com/presentation/?id=pap657&sess=sess384)
 - [Matrix-Free Finite-Volume Kernels on a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap439&sess=sess382)
-
+- [Trackable Agent-based Evolution Models at Wafer Scale](https://doi.org/10.1162/isal_a_00830)
 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
@@ -88,6 +88,8 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Dataflow for exascale, 2012 video](https://www.youtube.com/watch?v=rJ2MrtZPWFc)
 - [Stanford Seminar - Multiscale Dataflow Computing: Competitive Advantage at the Exascale Frontier, Maxeler(A Groq acquired company now)](https://www.youtube.com/watch?v=Nwdu7QlFUnA) DataFlow hardware since 2000!
 
+## Repositories
+- [Cerebras SDK Kernel for Agent-based Evolution Simulations](https://github.com/mmore500/wse-sketches)
 
 ## Spatial Computing general literature
 ### Lectures and Talks
