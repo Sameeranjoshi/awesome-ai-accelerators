@@ -76,6 +76,10 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [The Spatial Computer: A model for energy-efficient parallel computation(modelling)] ()
 - [Sparse Matrix Multiplication on Cerebras WSE-2: SpMM in Spatial Computing(kernel)]()
 - [Parallel Sparse Tensor-times-Vector on Cerebras WSE-2(MS Thesis)](https://repository.lib.ncsu.edu/server/api/core/bitstreams/ff6d682f-4e2a-433e-9552-716acc8ebd04/content)
+- [An MLIR Lowering Pipeline for Stencils at Wafer-Scale(tools/compiler)]()
+- [Near Optimal Wafer Scale Reduce(communication optimization)]()
+- [Automated Code Generation for High-Order Stencils for a dataflow Architecture(codegen/automation)]()
+- 
 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
