@@ -81,6 +81,18 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Automated Code Generation for High-Order Stencils for a dataflow Architecture(codegen/automation)]()
 - [A COMPARISON OF THE CEREBRAS WAFER-SCALE INTEGRATION TECHNOLOGY WITH NVIDIA GPU-BASED SYSTEMS FOR ARTIFICIAL INTELLIGENCE](https://arxiv.org/pdf/2503.11698v1)
 
+- [SPADA(tools)](https://arxiv.org/pdf/2511.09447)
+- [Matrix Free Finite Volume Kernels on dataflow architectures(kernel)](https://arxiv.org/pdf/2408.03452)
+- [Scalable Distributed High-Order Stencil Computations(25 point stencils)(kernel)](https://www.researchgate.net/publication/368762257_Scalable_Distributed_High-Order_Stencil_Computations)
+- [The Spatial Computer: A model for energy-efficient parallel computation(modelling)](https://arxiv.org/pdf/2205.04934)
+- [Sparse Matrix Multiplication on Cerebras WSE-2: SpMM in Spatial Computing(kernel)](https://filipdob.ro/papers/ProjectCerebras.pdf)
+- [Parallel Sparse Tensor-times-Vector on Cerebras WSE-2(MS Thesis)](https://repository.lib.ncsu.edu/server/api/core/bitstreams/ff6d682f-4e2a-433e-9552-716acc8ebd04/content)
+- [An MLIR Lowering Pipeline for Stencils at Wafer-Scale(tools/compiler)](https://dl.acm.org/doi/10.1145/3572848.3577520)
+- [Near Optimal Wafer Scale Reduce(communication optimization)](https://arxiv.org/pdf/2404.15888)
+- [Automated Code Generation for High-Order Stencils for a dataflow Architecture(codegen/automation)](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00025)
+- [A COMPARISON OF THE CEREBRAS WAFER-SCALE INTEGRATION TECHNOLOGY WITH NVIDIA GPU-BASED SYSTEMS FOR ARTIFICIAL INTELLIGENCE](https://arxiv.org/pdf/2503.11698v1)
+
+
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
 - [GraphCore EuroLLVM 22](https://www.youtube.com/watch?v=nr2ibjPg7bc&list=PL_R5A0lGi1AC5aYjEmBIAMMyibsENvvdU&index=13)
