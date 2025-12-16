@@ -68,6 +68,14 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [Fast Molecular Dynamics on Wafer-Scale System](https://sc24.conference-program.com/presentation/?id=pap657&sess=sess384)
 - [Matrix-Free Finite-Volume Kernels on a Dataflow Architecture](https://sc24.conference-program.com/presentation/?id=pap439&sess=sess382)
 
+### Newly added
+
+- [SPADA(tools)](https://arxiv.org/pdf/2511.09447)
+- [Matrix Free Finite Volume Kernels on dataflow architectures(kernel)]()
+- [Scalable Distributed High-Order Stencil Computations(25 point stencils)(kernel)]()
+- [The Spatial Computer: A model for energy-efficient parallel computation(modelling)] ()
+- [Sparse Matrix Multiplication on Cerebras WSE-2: SpMM in Spatial Computing(kernel)]()
+- [Parallel Sparse Tensor-times-Vector on Cerebras WSE-2(MS Thesis)](https://repository.lib.ncsu.edu/server/api/core/bitstreams/ff6d682f-4e2a-433e-9552-716acc8ebd04/content)
 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
