@@ -79,7 +79,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 - [An MLIR Lowering Pipeline for Stencils at Wafer-Scale(tools/compiler)]()
 - [Near Optimal Wafer Scale Reduce(communication optimization)]()
 - [Automated Code Generation for High-Order Stencils for a dataflow Architecture(codegen/automation)]()
-- 
+- [A COMPARISON OF THE CEREBRAS WAFER-SCALE INTEGRATION TECHNOLOGY WITH NVIDIA GPU-BASED SYSTEMS FOR ARTIFICIAL INTELLIGENCE](https://arxiv.org/pdf/2503.11698v1)
 
 ## Tutorials
 - [Argonne ALCF Training](https://www.alcf.anl.gov/ai-testbed-training-workshops)
