@@ -28,6 +28,7 @@ A list of the awesome compilers, programming, performance, and porting-related p
 
 ## Papers
 
+- [AI Accelerators for Large Language Model Inference: Architecture Analysis and Scaling Strategies](https://arxiv.org/abs/2506.00008) by Amit Sharma, arXiv 2025
 - [Evaluating Emerging AI/ML Accelerators: IPU, RDU, and NVIDIA/AMD GPUs](https://arxiv.org/abs/2002.03794) by Hongwu Peng et al., arXiv 2024
 - [Revet: A Language and Compiler for Dataflow Threads](https://arxiv.org/pdf/2302.06124) by Alexander C. Rucker et al., arXiv 2024
 - [Generating SIMD Instructions for Cerebras CS-1 using Polyhedral Compilation Techniques](https://cerebras.net/wp-content/uploads/2021/04/IMPACT_2020_paper_3.pdf) by Sven Verdoolaege et.al IMPACT 2020
